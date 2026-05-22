@@ -43,8 +43,7 @@ The best mid-year model was Random Forest with an R2 score of 0.80 and MAE of 1.
 
 
 
-Conclusion
-
+**Conclusion**
 
 
 Early-year demographic and behavioral features provide limited predictive power. Prediction becomes much more reliable when previous grades `G1` and `G2` are included.
