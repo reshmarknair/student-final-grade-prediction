@@ -1,4 +1,4 @@
-Student Final Grade Prediction
+**Student Final Grade Prediction**
 
 
 
@@ -6,8 +6,7 @@ This project predicts students' final grade (`G3`) using demographic, behavioral
 
 
 
-Problem Statement
-
+**Problem Statement**
 
 
 The goal is to compare two prediction approaches:
@@ -20,7 +19,7 @@ The goal is to compare two prediction approaches:
 
 
 
-Models Used
+**Models Used**
 
 
 
@@ -32,7 +31,7 @@ Models Used
 
 
 
-Results
+**Results**
 
 
 
