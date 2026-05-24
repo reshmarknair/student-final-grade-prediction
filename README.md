@@ -67,5 +67,5 @@ Features:
 
 **Visualization**
 
-correlation_heatmap.png
+images/correlation_heatmap.png
 
