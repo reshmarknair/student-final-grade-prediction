@@ -18,7 +18,7 @@ The goal is to compare two prediction approaches:
  Mid-Year Model: uses all features except `G3`, including `G1` and `G2`
 
 
-## Project Overview
+**Project Overview**
 This project predicts students' final grades (G3) using demographic,
 behavioral, and academic data.
 
