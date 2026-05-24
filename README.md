@@ -75,4 +75,9 @@ Features:
 - study time
 - absences
 - family support
-- previous grades
+- previous grades and so on
+
+
+**Visualizations**
+
+
