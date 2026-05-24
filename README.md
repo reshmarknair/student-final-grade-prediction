@@ -5,19 +5,6 @@
 This project predicts students' final grade (`G3`) using demographic, behavioral, and academic features.
 
 
-
-**Problem Statement**
-
-
-The goal is to compare two prediction approaches:
-
-
-
- Early-Year Model: uses all features except `G1`, `G2`, and `G3`
-
- Mid-Year Model: uses all features except `G3`, including `G1` and `G2`
-
-
 **Project Overview**
 
 
@@ -78,6 +65,7 @@ Features:
 - previous grades and so on
 
 
-**Visualizations**
+**Visualization**
+![Heatmap](images/heatmap.png)
 
 
