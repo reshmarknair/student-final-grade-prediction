@@ -18,6 +18,17 @@ The goal is to compare two prediction approaches:
  Mid-Year Model: uses all features except `G3`, including `G1` and `G2`
 
 
+## Project Overview
+This project predicts students' final grades (G3) using demographic,
+behavioral, and academic data.
+
+Two regression approaches were compared:
+
+- Early-Year Prediction Model
+- Mid-Year Prediction Model
+
+The objective is to analyze how prediction accuracy improves when mid-year grades are included.
+
 
 **Models Used**
 
